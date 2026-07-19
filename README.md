@@ -139,4 +139,4 @@ Current tests cover:
 
 ## Purpose
 
-This project was developed as a software engineering exercise demonstrating backend API development, frontend integration, validation, and automated testing using modern .NET and React technologies.
+This project involved backend API development, frontend integration, validation, and automated testing using modern .NET and React technologies.
